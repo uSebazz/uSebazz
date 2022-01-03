@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋        ![Profile View Counter](https://komarev.com/ghpvc/?username=ImSebazz)
 - ⭐ Hi, Im Sebazz
-- https://discord.gg/nino
-![Profile View Counter](https://komarev.com/ghpvc/?username=ImSebazz)
+- https://discord.gg/nino    
 <p align="center">
   <br>
   <br>
