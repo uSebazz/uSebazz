@@ -1,4 +1,6 @@
 ### Hi there 👋
+- ⭐ Hi, Im Sebazz
+- https://discord.gg/nino
 
 <p align="center">
   <br>
