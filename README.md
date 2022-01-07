@@ -7,7 +7,7 @@
 
 -  Learning JavaScript/TypeScript.
 -  Current Nino programmer, https://discord.gg/nino
--  Fanatic of fumo's
+-  Fanatic of fumos
 
 ### Languages And Tools
 
