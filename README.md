@@ -9,4 +9,4 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="mongodb" width="16px" src="https://cdn.discordapp.com/attachments/918278760539754547/929056082452697159/874512705837498368.png" />
+<img align="left" alt="mongodb" width="14px" src="https://cdn.discordapp.com/attachments/918278760539754547/929056082452697159/874512705837498368.png" />
