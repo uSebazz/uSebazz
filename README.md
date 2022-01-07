@@ -7,7 +7,7 @@
 
 -  Learning JavaScript/TypeScript.
 -  Current Nino programmer, https://discord.gg/nino
--  Fanatic of fumos
+-  Fanatic of fumo's
 
 ### Languages And Tools
 
@@ -21,4 +21,5 @@
 <a>
   <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=usebazz&theme=tokyonight&layout=compact" />
 </a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-4/899339781132124220.png"></a>
 <br/>
