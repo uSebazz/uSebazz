@@ -4,7 +4,6 @@
 
 -  Learning JavaScript/TypeScript.
 -  Current Nino programmer, https://discord.gg/nino
--  Fanatic of fumo's
 
 ### Languages And Tools
 
@@ -14,7 +13,7 @@
 
 
 <details>
-<summary><a align ="right">Statistics </a></summary>
+<summary><a align ="center">Statistics </a></summary>
 
 <a>
   <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=usebazz&theme=tokyonight&layout=compact" />
