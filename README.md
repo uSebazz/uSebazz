@@ -4,6 +4,7 @@
 
 -  Learning JavaScript/TypeScript.
 -  Current Nino programmer, https://discord.gg/nino
+-  Fanatic of fumo's
 
 ### Languages And Tools
 
@@ -12,7 +13,7 @@
 <img align="left" alt="mongodb" width="10px" src="https://cdn.discordapp.com/attachments/918278760539754547/929056082452697159/874512705837498368.png" />
 
 
-<!-- <details>
+<details>
 <summary><a align ="right">Statistics </a></summary>
 
 <a>
