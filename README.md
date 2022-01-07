@@ -12,7 +12,7 @@
 <img align="left" alt="mongodb" width="10px" src="https://cdn.discordapp.com/attachments/918278760539754547/929056082452697159/874512705837498368.png" />
 
 
-# Statistics
+<summary><a align ="right">Statistics </a></summary>
 <a>
   <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=usebazz&theme=tokyonight&layout=compact" />
 </a>
