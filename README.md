@@ -18,8 +18,13 @@
 
 ## Statistics
 
-<a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=usebazz&theme=tokyonight&layout=compact" />
-</a>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-4/899339781132124220.png"></a>
-<br/>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=uSebazz&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=uSebazz&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+</table>
