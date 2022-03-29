@@ -2,3 +2,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usebazz)
 
+
+<div> 
+  <img src="https://img.shields.io/badge/-Sebazz%233232-5663F7?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+  ![](https://github.com/Gittified/Gittified/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
