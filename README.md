@@ -1,12 +1,12 @@
-# <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px"> Hi everyone, I'm Sebazz! <br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uSebazz&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usebazz)
-<img src="https://img.shields.io/badge/-Sebazz%233232-5663F7?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+### Hi there I'm Sebazz 🐬
 
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://instagram.com/sbzz._)
+[![Twitter](https://img.shields.io/twitter/url?color=orange&label=Sebazz&style=social&url=https%3A%2F%2Ftwitter.com%2FuSebazz)](https://twitter.com/uSebazz)
 
-<div> 
-  </a>
+👨‍💻 Discord bot developer irl   
+👨‍🎓 Studying at High School   
+🚧 Current project [Nino](https://github.com/uSebazz/Nino)
 
-  ![](https://github.com/Gittified/Gittified/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=uSebazz&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
