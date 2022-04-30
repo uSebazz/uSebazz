@@ -14,7 +14,7 @@
 An enthusiastic guy who likes to program discord bots and do projects for people. 
 
 ### Resources
- > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a> <a href="https://yarnpkg.com"><img src="https://img.icons8.com/windows/32/000000/yarn-logo.png"/></a>
+ > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a> <a href="https://yarnpkg.com"><img src="https://cdn.discordapp.com/attachments/925049624681664592/969943500181372938/icons8-yarn-logo-32.png"/></a>
  
 ## Projects
 - [🌸 Nino](https://github.com/uSebazz/Nino) Discord bot with sapphire framework
