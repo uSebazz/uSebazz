@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Sebazz" src="https://cdn.discordapp.com/avatars/899339781132124220/2b0a74aa2c750b138434d0a654a01c81.png?size=2048">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Sebazz" src="https://avatars.githubusercontent.com/u/90474850?v=4">
 
 # Hi there i'm Sebazz 🐬
 
@@ -25,4 +25,3 @@ An enthusiastic guy who likes to program discord bots and do projects for people
 <img src="https://github-readme-stats.vercel.app/api?username=uSebazz&show_icons=true&theme=material-palenight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uSebazz&layout=compact&theme=material-palenight"/>  
 </div>
-<img width="37%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/899339781132124220?bg=1f1f1f&borderRadius=5px">
