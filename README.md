@@ -20,8 +20,5 @@ An enthusiastic guy who likes to program discord bots and do projects for people
 - [🌸 Nino](https://github.com/uSebazz/Nino) Discord bot with sapphire framework
 - [🐬Keta](https://github.com/uSebazz/Keta) A sapphire framework template
 
-## Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=uSebazz&show_icons=true&theme=material-palenight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uSebazz&layout=compact&theme=material-palenight"/>  
-</div>
+## Activity
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&redirect=true)
