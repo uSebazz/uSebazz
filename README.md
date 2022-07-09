@@ -13,12 +13,8 @@
 
 An enthusiastic guy who likes to program discord bots and do projects for people. 
 
-### Resources
- > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a> <a href="https://yarnpkg.com"><img src="https://cdn.discordapp.com/attachments/925049624681664592/969943500181372938/icons8-yarn-logo-32.png"/></a>
- 
-## Projects
-- [🌸 Nino](https://github.com/uSebazz/Nino) Discord bot with sapphire framework
-- [🐬Keta](https://github.com/uSebazz/Keta) A sapphire framework template
-
-## Activity
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&redirect=true)
+##
+<div align="auto" style="display: inline-block;">
+   <h3 align="auto">Resources</h1>
+    <img src="https://skillicons.dev/icons?i=git,docker,js,ts,bots,mongodb,vscode,lua,nodejs,powershell,prisma" />
+</div>
