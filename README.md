@@ -16,5 +16,5 @@ An enthusiastic guy who likes to program discord bots and do projects for people
 ##
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
-    <img src="https://skillicons.dev/icons?i=git,docker,js,ts,bots,mongodb,vscode,lua,nodejs,powershell,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,js,ts,bots,mongodb,vscode,lua,nodejs,powershell,prisma,markdown,neovim,vim" />
 </div>
